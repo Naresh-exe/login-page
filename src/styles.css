@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("https://img.freepik.com/free-vector/flat-vivid-modern-background_23-2148889928.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716681600&semt=ais_user");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:0;
+    margin: 0;
+}
+
